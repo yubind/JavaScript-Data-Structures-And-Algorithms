@@ -22,7 +22,7 @@ for(var i = 0; i < word.length; i++) {
 
 //see if rword is the same as word
 if(rword === word) {
-    console.log(word + 'is a palindrome');
+    console.log(word + ' is a palindrome');
 } else {
-    console.log(word + 'is not a palindrome');
+    console.log(word + ' is not a palindrome');
 }
